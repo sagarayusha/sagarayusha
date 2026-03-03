@@ -1,5 +1,5 @@
- #💫 About Me:
- ##Hi there 👋 I'm Ayusha sagar<br><br>I'm a passionate student exploring the intersection of **Web Development, Artificial Intelligence, Machine Learning, and Robotics**.<br>I enjoy building real-world projects that combine software and hardware to solve meaningful problems. From designing responsive web interfaces to developing intelligent systems using Python and ROS, I love turning ideas into working solutions.<br> 🌱 Currently<br>- Strengthening my fundamentals in AI & ML<br>- Building robotics-based and IoT-driven projects<br>- Continuously learning and experimenting<br> I’m always open to collaboration and building impactful projects together 🚀
+💫 About Me:
+###Hi there 👋 I'm Ayusha sagar<br><br>I'm a passionate student exploring the intersection of **Web Development, Artificial Intelligence, Machine Learning, and Robotics**.<br>I enjoy building real-world projects that combine software and hardware to solve meaningful problems. From designing responsive web interfaces to developing intelligent systems using Python and ROS, I love turning ideas into working solutions.<br> 🌱 Currently<br>- Strengthening my fundamentals in AI & ML<br>- Building robotics-based and IoT-driven projects<br>- Continuously learning and experimenting<br> I’m always open to collaboration and building impactful projects together 🚀
 
 
 ## 🌐 Socials:
